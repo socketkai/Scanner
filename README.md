@@ -1,2 +1,2 @@
 # Scanner
-Scan file with python and OpenCV
+Scan file into grayscale JPEG file with python and OpenCV
